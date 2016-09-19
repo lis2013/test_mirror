@@ -1,5 +1,5 @@
 iiiiiiiiiiiLOCAL_PATH:= $(call my-dir)
-LOCAL_PATH:= $(call my-dir)
+ddddddddddddddddddddddddddd:LOCAL_PATH:= $(call my-dir)
 LOCAL_PATH:= $(call my-dir)
 include $(CLEAR_VARS)
 LOCAL_STATIC_JAVA_LIBRARIES := gson
