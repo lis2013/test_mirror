@@ -6,6 +6,8 @@
 # ShedulePowerOnOff2
 # ShedulePowerOnOff2
 # ShedulePowerOnOff2
+
+dddddddddddddddd
 LOCAL_PATH:= $(call my-dir)
 LOCAL_PATH:= $(call my-dir)
 LOCAL_PATH:= $(call my-dir)
