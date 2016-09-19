@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.borqs.schedulepoweronoff"
-    android:versionCode="1"
+DD    package="com.borqs.schedulepoweronoff"
+  DD  android:versionCode="1"
     android:versionName="1.0"
     android:sharedUserId="android.uid.system" >
 
