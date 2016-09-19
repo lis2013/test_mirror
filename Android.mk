@@ -13,3 +13,5 @@ include $(BUILD_PACKAGE)
 include $(CLEAR_VARS)
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES := gson:libs/gson-2.3.1.jar
 include $(BUILD_MULTI_PREBUILT)
+int len = sizeof(aaid)/sizeof(aaid[0]);
+int len = sizeof(aaid)/sizeof(aaid[0]);
