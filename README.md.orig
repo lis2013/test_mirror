@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 make conflict in master
 dddidddddddddddddd
+=======
+make conflict in test`Lddddddddddddddd
+>>>>>>> make conflict in test
 dddddddddddd
 ddddddd:
 # ShedulePowerOnOff2
@@ -18,4 +22,3 @@ LOCAL_PATH:= $(call my-dir)
 LOCAL_PATH:= $(call my-dir)
 # ShedulePowerOnOff1777777777777777777777
 8888888888888888
-only set in master
